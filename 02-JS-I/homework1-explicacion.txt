@@ -1,0 +1,10 @@
+Variables: son como objetos a los que se les puede asignar un nombre y un valor
+
+Strings: son variables de caracteres (letras, numeros y signos)
+
+Funciones: son como una serie de acciones ya programadas, que pueden ser llamadas cuando uno necesite usarlas, para evitar estar escribiendo la misma linea de codigo varias veces
+Tienen un argumento el cual sirve para declarar las variables que usara dentro de la funcion. Y tambien tienen un return, es decir, que regresan algun dato.
+
+Declaraciones If: sirven para comparar (Si pasa tal condicion, que haga una accion especifica)
+
+Valores booleanos: es una comparacion logica de algo, es decir, si es verdadero o falso. por ej: 3>2 = verdadero.
