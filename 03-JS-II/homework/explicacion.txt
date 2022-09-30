@@ -1,0 +1,7 @@
+For: es una funcion que nos permite repetir determinada linea de codigo la cantidad de veces que necesitemos, para eso vamos a usar unos parametros llamado contador que sera identificado con la letra "i" (puede ser cualquier letra, pero la i es la mas usada con la j).
+
+&&: es un comparador, significa "y", es decir, si se cumple que A "y" B son iguales realizar determinada accion.
+
+||: parecido a &&, solo que significa "o", es decir, si se cumple que A "o" B, "o" C, "o"......con que se cumpla cualquiera de las siguientes condiciones realizar determinada accion.
+
+!: sirve para decir que se quiere evaluar lo contrario de lo q se escribio por ej si"===" es comparar que 2 datos son iguales, el "!==" sera; si dos datos son distintos.
