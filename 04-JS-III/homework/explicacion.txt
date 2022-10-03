@@ -1,0 +1,1 @@
+Array: es como conjunto de casilleros, que estan identificados por una posicion, y dentro de cada casilla nos permite almacenar otros elemenos, numeros, cadenas de caracteres, funciones incluso mas arrays dentro del mismo.
