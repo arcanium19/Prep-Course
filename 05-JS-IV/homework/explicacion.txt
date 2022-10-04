@@ -1,0 +1,11 @@
+Objetos: Es un elemento, que nos permite contener otros elementos, pero que identificados por una clave o propiedad, y un valor asignado a cada uno.
+
+propiedades: es el nombre por el cual se diferenciaran los valores dentro del objeto.
+
+metodos: son los valores o funciones que se le asignaran a cada clave / propiedad.
+
+Bucle for...in: similar al bucle for que se venia usando, cumplen las mismas funciones con la diferencia de que en los argumentos se hace referencia al valor a guardar y donde se guardara, ej:
+
+for(dondeSeGuardara in valorAGuardar)
+
+Notacion DOT y bracket: la bracket se podria decir que es la tradicional y es usando [] para hacer refencias a las propiedades y metodos del objeto, mientras que la DOT es una nueva nomenclatura que agrego javascript en los ultimos años, y consta de poner un "." despues del nombre del objeto para hacer referencia a la propiedad y asignarle un valor usando "=".
