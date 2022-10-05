@@ -1,0 +1,1 @@
+funciones callback: Call back significa llamar de nuevo, y asi como su nombre mismo nos indica, que podemos llamar a una funcion dentro de otra funcion.
