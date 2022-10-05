@@ -1,0 +1,3 @@
+prototype: es una comando que nos permite heredar propiedades de otras objetos.
+
+constructor (de clases): Es como una funcion que nos permite estructurar o crear un metodo, para que despues sea llamado las veces que se necesite, para evitar codear varias veces el mismo codigo.
